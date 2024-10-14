@@ -1,29 +1,41 @@
-<p>
-  <img img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" height="280" />
-  <p>
-    <img alt="VSCode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-    <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-    <img alt="Git" src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-    <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
-    <img alt="Trello" src="https://img.shields.io/badge/-Jira-0079BF?style=flat-square&logo=Jira&logoColor=white"/>
-    <img alt="Webpack" src="https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white"/>
-    <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
-    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"/>
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"/>
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-    <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
-    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
-    <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white"/>
-    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-    
-  </p>
-</p>
-<p>
-  📇 Contacts:<br/>
-  <br/>
-  <a href="https://t.me/Alexandrr18"><img src="https://img.shields.io/badge/telegram-237199.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a><br/>
-  <a href="mailto:Ham.Kluew@yandex.ru"><img src="https://img.shields.io/badge/email-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a><br/>
-  <a href="https://vk.com/sarapul1994"><img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=VK&logoSize=auto"/></a><br/>
-</p>
+ __[rsschool-cv](https://github.com/Alexandrr18/rsschool-cv)__
+
+# __Alexandr Kluev__
+
+## __Contacts__
+- __Location:__ Sarapul, Russia
+- __Phone:__ +7 922 522 05 45
+- __Email:__ Ham.Kluew@yandex.ru
+- __GitHub:__ [Alexandrr18](https://github.com/Alexandrr18)
+
+## __About Me__
+I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.\
+I am reliable and dependable and often seek new responsibilities within a wide range of employment areas. 
+
+## __Skills__
+- HTML
+- CSS/SASS
+- JavaScript (Basic)
+- Git
+
+## __Code Example__
+```
+function sum(a, b) {
+  return a + b;
+}
+
+let result = sum(1, 2);
+console.log( result );
+```
+
+## __Experience__
+
+## __Education__ 
+- __University:__ Russia, Sarapul College of Mechanical Engineering and Information Technology
+- __Courses:__
+  - [HTML Basic](https://code-basics.com/ru/languages/html)
+  - [CSS Basic](https://code-basics.com/ru/languages/css)
+  - [JavaScript Basic](https://code-basics.com/ru/languages/javascript)
+
+## __English__
+__A1__ (I can read the technical documentation) 
